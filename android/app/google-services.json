@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903104885030",
+    "project_id": "onlinedoctor-34865",
+    "storage_bucket": "onlinedoctor-34865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903104885030:android:39c2330d5125e05b3e91e7",
+        "android_client_info": {
+          "package_name": "com.example.onlinedoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903104885030-0ttc2t6n922uuibv3h2u22fkgdcfusj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf-K7RP4V0_fq0UWs--BSkHebnGHvdF54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903104885030-0ttc2t6n922uuibv3h2u22fkgdcfusj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
